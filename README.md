@@ -76,7 +76,7 @@ An app for a business organization at **30Days Technologies Pvt. Ltd.** to conne
 
 ### 📬 Let’s Connect!
 - **Email**: [namanjain.work@gmail.com](mailto:namanjain.work@gmail.com)
-- **LinkedIn**: [Naman Jain](www.linkedin.com/in/naman-jain-b06a8228b)
+- **LinkedIn**: [www.linkedin.com/in/naman-jain-b06a8228b]
 <p align="left">
   <a href="https://linkedin.com/in/naman-jain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman jain" height="30" width="40" /></a>
 </p>
