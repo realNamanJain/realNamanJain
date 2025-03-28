@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Android-Kotlin%20|%20Jetpack%20Compose-brightgreen" alt="Android Badge">
   <img src="https://img.shields.io/badge/Cross%20Platform-Flutter-blue" alt="Flutter Badge">
-  <img src="https://img.shields.io/badge/Backend-Spring%20Learning-orange" alt="Spring Badge">
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-green" alt="Spring Badge">
 </p>
 
 ---
